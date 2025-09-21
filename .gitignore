@@ -1,3 +1,6 @@
+# Ignore temp/swap files
+*.swo
+.nfs*
 Testcases/*-student.txt
 Markcases/*-student.txt
 src/ex2q1
