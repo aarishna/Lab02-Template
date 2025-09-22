@@ -1,3 +1,7 @@
+// CODE OWNER - Aarish Naiyer
+// STUDENT ID - 1853182
+// Lab 2
+
 #include <stdio.h>
 int main(){
 
